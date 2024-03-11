@@ -1,5 +1,3 @@
-### Bio
-
 👨‍💻 Software Engineer | Systems Architecture and Data Enthusiast 📊
 
 🔧 Crafting robust microservices, alongside deep dives into data realms.
